@@ -1,0 +1,10 @@
+package com.dakr.Inheritance;
+
+public class  Eagle  extends Bird {
+	
+	public String name =  "eagle";
+	public  int lifespan = 15;
+	
+	
+	}
+
